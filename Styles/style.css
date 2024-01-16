@@ -224,3 +224,81 @@ body{
     margin-top: 100px;
     margin-left: 118px;
 }
+
+.cyd-head{
+    text-align: center;
+    margin-left: 375px;
+    margin-top: 25px;
+    position: absolute;
+}
+
+.cyd-head1{
+    color: #131318;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 0%;
+}
+
+.cyd-head2{
+    width: 643px;
+    color: rgba(19, 19, 24, 0.70);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.collage{
+    margin-top: 200px;
+}
+
+.f-row > img{
+        width: 100%;
+        height: 100%;
+}
+
+.f-row{
+    width: 1200px;
+    height: 300px;
+    display: flex;
+    gap: 24px;
+    margin-left: 130px;
+}
+
+.s-row{
+    width: 1200px;
+    height: 300px;
+    display: flex;
+    gap: 24px;
+    margin-left: 130px;
+    margin-top: 24px;
+}
+
+.s-row-1{
+    width: 374px;
+    height: 286px;
+}
+
+.s-row-2{
+    width: 474px;
+    height: 286px;
+}
+
+.s-row-3{
+    width: 304px;
+    height: 286px;
+}
+
+.t-row > img{
+    width: 100%;
+    height: 100%;
+}
+
+.t-row{
+    width: 1200px;
+    height: 300px;
+    display: flex;
+    gap: 24px;
+    margin-left: 130px;
+    margin-top: 8px;
+}
