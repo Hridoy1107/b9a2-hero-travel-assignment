@@ -443,3 +443,66 @@ body{
     margin-top: 50px;
     margin-left: 125px;
 }
+
+.footer-div{
+    width: 1440px;
+    height: 502px;
+    background: rgba(19, 19, 24, 0.05);
+    margin-top: 60px;
+}
+
+.footer-des{
+    width: 769px;
+    color: #5A5A5D;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 30px;
+    margin-right: ;
+}
+
+.fd-div{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.footer-head{
+    color: var(--Dark-01, #131318);
+    font-size: 32px;
+    font-weight: 800;
+    margin-left: 16px;
+    margin-top: 140px;
+    margin-bottom: 0%;
+}
+
+.footer-icon{
+    height: 40px;
+    width: 46px;
+    margin-top: 140px;
+    margin-bottom: 0%;
+}
+
+.footer-icon-div{
+    display: flex;
+    justify-content: center;
+}
+
+.icons{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.rights{
+    color: #131318;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.f-r-div{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 100px;
+}
