@@ -37,17 +37,12 @@ body{
     display: flex;
     gap: 44px;
     margin-top: 50px;
-    margin-right: 193px;
-}
-
-.intro-li{ 
-    padding: 10px 0px;
-    align-items: center;
 }
 
 .intro{
     display: flex;
     justify-content: space-between;
+    width: 1200px;
 }
 
 .intro-ban-cont{
@@ -135,7 +130,7 @@ body{
 }
 .btn-4-f{
     border-radius: 8px;
-    background: #FF5400;
+    background: #0fce71;
     width: 174px;
     height: 52px;
     font-size: 16px;
@@ -301,4 +296,70 @@ body{
     gap: 24px;
     margin-left: 130px;
     margin-top: 8px;
+}
+
+.wcu-head1{
+    color: #131318;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 0%;
+}
+
+.wcu-head2{
+    width: 643px;
+    color: rgba(19, 19, 24, 0.70);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.wcu-head{
+    text-align: center;
+    margin-left: 375px;
+    margin-top: 25px;
+    position: absolute;
+}
+
+.wcu-div2{
+    width: 1200px;
+    margin-top: 25px;
+    display: flex;
+    margin-top: 300px;
+    justify-content: space-between;
+    margin-left: 125px;
+}
+
+.wcu-body1{
+    width: 573px;
+    height: 284px;
+    border-radius: 16px;
+    border: 1px solid rgba(251, 181, 99, 0.20);
+    background: rgba(251, 181, 99, 0.05); 
+}
+
+.wcu-body2{
+    width: 573px;
+    height: 284px;
+    border-radius: 16px;
+    border: 1px solid rgba(41, 206, 246, 0.20);
+    background: rgba(41, 206, 246, 0.05); 
+}
+
+.wcu-div3{
+    width: 1200px;
+    margin-top: 25px;
+    display: flex;
+    margin-top: 46px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 125px;
+}
+
+.wcu-body3{
+    width: 573px;
+    height: 284px;
+    border-radius: 16px;
+    border: 1px solid rgba(41, 206, 246, 0.20);
+    background: rgba(41, 206, 246, 0.05); 
 }
