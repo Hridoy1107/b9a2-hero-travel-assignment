@@ -436,6 +436,32 @@ body{
     height: 422px;
 }
 
+.travel-com{
+    width: 324px;
+    height: 120px;
+    transform: rotate(-19.628deg);
+    border-radius: 16px;
+    background: #FF5400;
+}
+
+.travel-btn{
+    color: #FFF;
+    background-color: #FF5400;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 400;
+    width: 324px;
+    height: 120px;
+    border-radius: 16px;
+    border: none;
+}
+
+.save-br{
+    color: #FFF;
+    font-size: 32px;
+    font-weight: 800;
+}
+
 .news-div{
     width: 1200px;
     display: flex;
@@ -458,7 +484,6 @@ body{
     font-size: 16px;
     font-weight: 400;
     margin-top: 30px;
-    margin-right: ;
 }
 
 .fd-div{
@@ -505,4 +530,17 @@ body{
     align-items: center;
     display: flex;
     margin-top: 100px;
+}
+
+@media screen and (max-width: 576px) {
+    .intro{
+        flex-direction: column;
+    }
+    .intro-li{
+        visibility: hidden;
+    }
+    .intro-banner{
+        width: 335px;
+        height: 483px;
+    }
 }
