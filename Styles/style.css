@@ -364,6 +364,63 @@ body{
     background: rgba(41, 206, 246, 0.05); 
 }
 
+.video-l-div{
+    display: flex;
+    margin-top: 50px;
+}
+
+.vid-div-left{
+    width: 584px;
+    height: 424px;
+    margin-left: 125px;
+}
+
+.vdl-des-h{
+    width: 448px;
+    color: #131318;
+    font-size: 40px;
+    font-weight: 800;
+    top: 0;
+}
+
+.vdl-des{
+    width: 532px;
+    color: #5A5A5D;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.vdl-ul{
+    color: #131318;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.vdl-ul-li1{
+    width: 518px;
+}
+
+.vdl-ul-li2{
+    width: 518px;
+    margin-top: 16px;
+}
+
+.vdl-btn{
+    width: 174px;
+    height: 52px;
+    border-radius: 8px;
+    background: #FF5400;
+    border: none;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.vid-div-right{
+    width: 610px;
+    height: 424px;
+}
+
 .news-div-left{
     width: 474px;
     height: 422px;
